@@ -1,0 +1,6 @@
+{
+  "name": "AI Interior Designer",
+  "description": "An AI-powered design assistant that analyses room photos to optimize space, recommends furniture, color palettes, and budget breakdowns, and generates stunning visual redesigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
